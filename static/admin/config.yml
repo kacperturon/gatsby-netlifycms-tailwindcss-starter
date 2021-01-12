@@ -1,7 +1,7 @@
 backend:
-  name: github
-  repo: kacperturon/gatsby-test
-
+  name: git-gateway
+  branch: master
+  
 media_folder: static/assets
 public_folder: /assets
 

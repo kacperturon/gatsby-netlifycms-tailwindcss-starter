@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { graphql } from 'gatsby';
 
 const IndexPage = ({ data }) => {
   const blogPosts = data.allMarkdownRemark.edges;
